@@ -1,0 +1,20 @@
+{
+  "name": "mocha-unit-test-part-1",
+  "version": "1.0.0",
+  "description": "# Contents 1. What is unit test 2. Why do we need unit test 3. What is mocha 4. Try out",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ichwanhs96/mocha-unit-test-part-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ichwanhs96/mocha-unit-test-part-1/issues"
+  },
+  "homepage": "https://github.com/ichwanhs96/mocha-unit-test-part-1#readme"
+}
