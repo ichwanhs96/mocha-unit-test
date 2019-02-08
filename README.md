@@ -1,4 +1,4 @@
-# mocha-unit-test-part-1
+# mocha unit test - introduction
 
 # Contents
 1. What is unit test
@@ -29,7 +29,6 @@ Mocha is a feature-rich JavaScript test framework running on Node.js and in the 
 Alright too long? it's actualy a tools for doing unit testing :D
 
 # Try out
-1. Clone this repo
-2. Do npm test
-- this gonna install mocha to your local
-3. Try writting your first unit test using mocha
+1. Clone repo https://github.com/xendit/xendit-billing-service
+2. Do npm install
+3. Try to run `npm run-script test-mocha`
